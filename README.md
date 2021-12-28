@@ -8,8 +8,8 @@ The purpose of the analysis was to provide the client with additional temperatur
 -	The mean temperature in December is 71 degrees.  
 -	Given the above two metrics, we can conclude that the surf and ice cream shop business is sustainable year-round based on temperature-only analysis.  
 
-![Figure 1](https://github.com/AMHembrough/Pewlett-Hackard-Analysis/blob/main/Deliverable1.PNG)
-![Figure 2](https://github.com/AMHembrough/Pewlett-Hackard-Analysis/blob/main/Deliverable1.PNG)
+![Figure 1](https://github.com/AMHembrough/surfs_up/blob/main/June.PNG)
+![Figure 2](https://github.com/AMHembrough/surfs_up/blob/main/Dec.PNG)
 
 # Summary: 
 
