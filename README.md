@@ -4,8 +4,13 @@ The purpose of the analysis was to provide the client with additional temperatur
 
 # Results: 
 
+## June
 -	The mean temperature in June is nearly 75 degrees. 
+
+## Dec
 -	The mean temperature in December is 71 degrees.  
+
+## Conclusions
 -	Given the above two metrics, we can conclude that the surf and ice cream shop business is sustainable year-round based on temperature-only analysis.  
 
 ![Figure 1](https://github.com/AMHembrough/surfs_up/blob/main/June.PNG)
